@@ -1,0 +1,15 @@
+C:\Users\User\assignment1_IFP\bin\Debug\net10.0\assignment1_IFP.exe
+C:\Users\User\assignment1_IFP\bin\Debug\net10.0\assignment1_IFP.deps.json
+C:\Users\User\assignment1_IFP\bin\Debug\net10.0\assignment1_IFP.runtimeconfig.json
+C:\Users\User\assignment1_IFP\bin\Debug\net10.0\assignment1_IFP.dll
+C:\Users\User\assignment1_IFP\bin\Debug\net10.0\assignment1_IFP.pdb
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.AssemblyInfoInputs.cache
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.AssemblyInfo.cs
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.csproj.CoreCompileInputs.cache
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.sourcelink.json
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.dll
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\refint\assignment1_IFP.dll
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.pdb
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\assignment1_IFP.genruntimeconfig.cache
+C:\Users\User\assignment1_IFP\obj\Debug\net10.0\ref\assignment1_IFP.dll
