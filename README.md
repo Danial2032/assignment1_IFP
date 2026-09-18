@@ -22,24 +22,42 @@ Answer: TryParse helps to show message if user input is wrong. Standard parsing 
 
 # Test Cases (6): 
 
-1)
+1) Price did not change
 
+<img width="564" height="197" alt="1st i" src="https://github.com/user-attachments/assets/77e9670d-d0cf-485c-9e7a-79a843afc9be" />
 
+I used input such as 3, false, Courier, City. These input does not change the price.
 
-2)
+2) Added 1000 or 20% of the price because of item count.
 
+<img width="544" height="189" alt="2nd i" src="https://github.com/user-attachments/assets/3c033c67-09fe-496e-8250-2236050595e1" />
 
+I used input such as 10, false, Courier, City. Only 10 items changed the price by adding 20%. 
 
-3)
+3) Added 1500 or 30% of the price.
 
+<img width="535" height="198" alt="3rd i" src="https://github.com/user-attachments/assets/8bb25c7c-e8c0-4603-93af-415dab45295e" />
 
+I used input such as 3, true, Courier, City. Only true changed the price by adding 30%.
 
-4)
+4) Reduced the price by 20% or 1000.
 
+<img width="516" height="195" alt="4th i" src="https://github.com/user-attachments/assets/320cb80a-854d-4751-8c15-b18b857c260f" />
 
+I used input such as 3, false, Pickup, City. Only Pickup reduced the price by 20%.
 
-5)
+5) The program shows Error  because of the text instead of integer input
 
+<img width="500" height="133" alt="5th i" src="https://github.com/user-attachments/assets/72691c9d-9a95-4e13-8c31-2d6a38d2937f" />
 
+I used string which cause TryParse to show the error message.
 
-6)
+6) The program shows Error because of the empty value
+
+<img width="475" height="145" alt="7i" src="https://github.com/user-attachments/assets/b03a0fa7-ce14-4df9-ae58-93483aa6d03c" />
+
+I used empty value, which triggered the TryParse that shows error.
+
+# To Run the program: 
+
+I use terminal in which I write dotnet run and press Enter.
