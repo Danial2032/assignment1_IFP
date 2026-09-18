@@ -70,7 +70,7 @@ namespace FunctionalDeliveryCalculator
                 return false;
             }
 
-            Console.Wrtie("Enter delivery type (Pickup, Courier, DoorToDoor): ");
+            Console.Write("Enter delivery type (Pickup, Courier, DoorToDoor): ");
             string? typeInput = Console.ReadLine();
             if(!Enum.TryParse<DeliveryType>(typeInput, true, out var deliveryType) || !Enum.IsDefined(typeof(DeliveryType),deliveryType))
             {
