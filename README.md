@@ -19,3 +19,27 @@ Answer: There are 2 forms in the application. Firstly, ApplyDeliveryZoneRule and
 4) Why is TryParse useful when processing delivery data entered by the user?
 
 Answer: TryParse helps to show message if user input is wrong. Standard parsing methods throw runtime exceptions when given text, empty string or null values. TryParse returns a bool indicating success or failure. It stops execution if the user input is wrong.
+
+# Test Cases (6): 
+
+1)
+
+
+
+2)
+
+
+
+3)
+
+
+
+4)
+
+
+
+5)
+
+
+
+6)
